@@ -1,0 +1,16 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+#result-box {
+    min-height: 200px;
+}
+
+#draw-placeholder {
+    margin: auto;
+    background-color: #28A745; height: 0px; width: 0px;
+}
+
+#result-placeholder {
+    color: #777;
+}
